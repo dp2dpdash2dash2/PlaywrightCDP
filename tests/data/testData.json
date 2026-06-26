@@ -1,0 +1,38 @@
+[
+    {
+        "tcId": "TC-001", 
+        "enabled": true,
+        "quantity": "2",
+        "itemName": "Blue and green Sneaker",
+        "country": "India",
+        "state": "Other (Non US)",
+        "zipCode": "100001"
+    },
+    {
+        "tcId": "TC-002", 
+        "enabled": true,
+        "quantity": "1",
+        "itemName": "Blue Jeans",
+        "country": "Denmark",
+        "state": "Other (Non US)",
+        "zipCode": "100002"
+    },
+    {
+        "tcId": "TC-003", 
+        "enabled": false,
+        "quantity": "3",
+        "itemName": "Casual Golf Belt",
+        "country": "India",
+        "state": "Other (Non US)",
+        "zipCode": "100003"
+    },
+    {
+        "tcId": "TC-004", 
+        "enabled": true,
+        "quantity": "6",
+        "itemName": "50's Rockabilly Polka Dot Top JR Plus Size",
+        "country": "United States",
+        "state": "Georgia",
+        "zipCode": "30005"
+    }
+]
